@@ -9,7 +9,7 @@ The website is available at: [mcp-test-figma-eoe.netlify.app](https://mcp-test-f
 ## Technical Details
 
 - **Model**: Claude 3 Opus (via GitHub Copilot)
-- **MCP Server**: Figma MCP Browser Extension
+- **MCP GitHub**: [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)
 - **Date Created**: May 5, 2025
 - **Figma Design**: [AHSTC Design](https://www.figma.com/design/B4IpubhCTzuC0zHWVyNJTn/AHSTC?node-id=15-1053&t=PJ8l6EFY2WDLZFcx-11)
 
