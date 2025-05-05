@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates using Figma MCP (Model Context Protocol) integration with GitHub Copilot with Claude to generate a complete website from a Figma design. No changes have been made to the AI-generated code - this represents the raw output from Claude via GitHub Copilot.
 
+## Live Demo
+The website is available at: [mcp-test-figma-eoe.netlify.app](https://mcp-test-figma-eoe.netlify.app/)
+
 ## Technical Details
 
 - **Model**: Claude 3 Opus (via GitHub Copilot)
